@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+Welcome to my first file. My name is Maxwell. I have just _officially_ joined Github, the one that has the student learning materials with tons of benefits. I'm currently learning how to use Github. Well, there isn't really much here. Hopefully, before my degree or duration as a student in Github ends, I'll be able to learn all the things prepared in the student Github pack.
+
+Feel free to reach me in Linked: https://www.linkedin.com/in/maxwell-hilary-884903240/ 
 
 <!--
 **Maxwell0308/Maxwell0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
